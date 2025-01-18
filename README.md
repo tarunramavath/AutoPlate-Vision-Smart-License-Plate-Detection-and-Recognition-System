@@ -1,5 +1,5 @@
 # AutoPlate-Vision-Smart-License-Plate-Detection-and-Recognition-System
----
+
 ## Project Overview
 This Streamlit application leverages the YOLO model for detecting objects in images and videos. It supports various file formats for input and generates annotated outputs, making it easy to visualize detected objects with bounding boxes and confidence scores.
 
