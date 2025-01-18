@@ -1,6 +1,3 @@
-pandas
-matplotlib
 streamlit
 opencv-python
 ultralytics
-numpy
